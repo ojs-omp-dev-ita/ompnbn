@@ -17,7 +17,7 @@
 
 import('classes.plugins.PubIdPlugin');
 
-import('plugins.pubIds.nbn.classes.NbnDAO');
+import('plugins.pubIds.ompnbn.classes.NbnDAO');
 
 //import('pages.search.SearchHandler');
 
