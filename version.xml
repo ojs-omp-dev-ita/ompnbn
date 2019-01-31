@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+<!--
+  * plugins/pubIds/nbn/version.xml
+  *
+  * Copyright (c) 2003-2012 John Willinsky
+  * Contributed by CILEA
+  * Upgraded to OMP3 by Alfredo Cosco (2019)
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>ompnbn</application>
+	<type>plugins.pubIds</type>
+	<release>2.0.0</release>
+	<date>2019-31-01</date>
+   <lazy-load>1</lazy-load>
+   <class>NBNPubIdPlugin</class>   
+</version>
